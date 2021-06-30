@@ -2,4 +2,4 @@ This repository contains gitian signatures for Litecoin. It should be updated on
 
 Generating Gitian Sigs
 
-https://github.com/litecoin-project/litecoin/blob/master/doc/release-process.md
+https://github.com/neemcoin-project/neemcoin/blob/master/doc/release-process.md
